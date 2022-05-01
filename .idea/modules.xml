@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cookie_demo/Cookie_demo.iml" filepath="$PROJECT_DIR$/Cookie_demo/Cookie_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis/MyBatis.iml" filepath="$PROJECT_DIR$/MyBatis/MyBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet_demo/Servlet_demo.iml" filepath="$PROJECT_DIR$/Servlet_demo/Servlet_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_demo/maven_demo.iml" filepath="$PROJECT_DIR$/maven_demo/maven_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat_demo/tomcat_demo.iml" filepath="$PROJECT_DIR$/tomcat_demo/tomcat_demo.iml" />
+    </modules>
+  </component>
+</project>
